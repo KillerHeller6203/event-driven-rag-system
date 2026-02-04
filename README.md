@@ -42,17 +42,31 @@ Answer
 
 ##  Architecture & UI Screenshots
 
-### 1. Inngest Workflow Execution
-![Inngest Workflow](images/inngest_workflow.png)
+## 📸 Architecture & UI Screenshots
 
-### 2. Ingest Event Trigger
-![Ingest Event](images/ingest_event.png)
+### 1. Inngest – PDF Ingest Event
+![Ingest Event](uploads/ingest_event.jpeg)
 
-### 3. Query Execution Result
-![Query Result](images/query_result.png)
+---
 
-### 4. Streamlit UI
-![Streamlit UI](images/streamlit_ui.png)
+### 2. Inngest – Query Event Execution
+![Query Event](uploads/ingest_query.jpeg)
+
+---
+
+### 3. RAG Query Result (Semantic Search + LLM)
+![RAG Query Result](uploads/RAG_query.jpeg)
+
+---
+
+### 4. Streamlit UI – Upload & Query
+![Streamlit UI](uploads/streamlit_ui_1.jpeg)
+
+---
+
+### 5. Streamlit UI – Answer Output
+![Streamlit UI Output](uploads/streamlit_ui_2.jpeg)
+
 
 ---
 
@@ -129,3 +143,4 @@ Send an event via the Inngest UI (http://127.0.0.1:8288):
 
 Most RAG projects are simple scripts or demos.
 This project focuses on system design, workflow orchestration, and real-world constraints.
+
