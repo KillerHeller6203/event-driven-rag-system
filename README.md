@@ -42,8 +42,6 @@ Answer
 
 ##  Architecture & UI Screenshots
 
-## 📸 Architecture & UI Screenshots
-
 ### 1. Inngest – PDF Ingest Event
 ![Ingest Event](uploads/ingest_event.jpeg)
 
@@ -143,4 +141,5 @@ Send an event via the Inngest UI (http://127.0.0.1:8288):
 
 Most RAG projects are simple scripts or demos.
 This project focuses on system design, workflow orchestration, and real-world constraints.
+
 
