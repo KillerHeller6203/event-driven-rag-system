@@ -140,6 +140,16 @@ Send an event via the Inngest UI (http://127.0.0.1:8288):
 ## Why This Project
 
 Most RAG projects are simple scripts or demos.
-This project focuses on system design, workflow orchestration, and real-world constraints.
+This project focuses on **system design, event orchestration, observability, and real-world constraints**.
+
+---
+
+## Key Highlights
+
+- Fully event-driven RAG pipeline (ingest & query decoupled)
+- Async ingestion with retries and observability via Inngest
+- Local LLM inference for cost-efficient GenAI systems
+
+
 
 
